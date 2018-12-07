@@ -1,0 +1,26 @@
+#container  {
+    background-color: gray;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border: 10px solid 
+}
+
+
+#box1 {
+  background-color: #e4e4e4;
+  position: relative;
+  left: 150px;
+  width: 150px;
+  height: 150px;
+
+}
+
+#box2 {
+  background-color: #ff912e;
+  position: relative;
+ 
+  width: 150px;
+  height: 150px;
+  display: 
+}
